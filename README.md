@@ -41,6 +41,3 @@ Además, se diseñó y fabricó una **carcasa impresa en 3D** para alojar los co
 ## Licencia
 Este proyecto se encuentra bajo la licencia **MIT**, lo que permite su uso, modificación y distribución sin restricciones.
 
-## Contacto
-Para dudas o mejoras en el proyecto, puedes ponerte en contacto a través de [tu correo o redes sociales].
-
